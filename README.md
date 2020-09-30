@@ -5,7 +5,7 @@
 
 > [Uche Osahor](https://github.com/Electronicshelf)<sup>1</sup>, 
 [Hadi Kazemi]<sup>1</sup>, 
-[Ali Dabouei]<sup>1/sup>
+[Ali Dabouei]<sup>1</sup>,
 
 [Nasser Nasrabadi]<sup>1</sup>
 <sup>1</sup> West Virginia University <br/>
