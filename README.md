@@ -1,7 +1,7 @@
 ## [Quality Guided Sketch-to-Photo Image Synthesis](https://arxiv.org/abs/2005.02133):
 ### PyTorch Implementation
 <p> align="center"><img width="100%" src="Picture6.png" /></p>
-<p> align="center"><img width="100%" src="PictureArch1.png" /></p>
+
 
 ## Installation
 ```bash
@@ -70,8 +70,7 @@ pip install <package>
    > Step size defines when to save the sample files while training 
     # Step size.
     --sample_step, type=int, default=500
-
-
+    
 ## data_loader_gui.py
 	# Dataloader >> All values  are already set as default
     x = "data"
