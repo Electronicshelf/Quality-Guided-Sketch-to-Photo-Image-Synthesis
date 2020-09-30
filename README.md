@@ -3,6 +3,18 @@
 <p align="center"><img width="100%" src="Picture6.png" /></p>
 
 
+> [Uche Osahor](https://github.com/Electronicshelf/Quality-Guided-Sketch-to-Photo-Image-Synthesis)<sup>1,2</sup>, 
+[Hadi Kazemi]<sup>1,2</sup>, 
+[Ali Dabouei]<sup>2,3</sup>,
+[Nasser Nasrabadi]<sup>2</sup>,
+<br/>
+Nasser Nasrabadi
+
+> <sup>1</sup> West Virginia University <br/>
+> arxiv.org/pdf/2005.02133.pdf <br>
+>
+> **Abstract:** *Facial sketches drawn by artists are widely used for vi-sual identification applications and mostly by law enforce-ment agencies, but the quality of these sketches depend onthe ability of the artist to clearly replicate all the key fa-cial  features  that  could  aid  in  capturing  the  true  identityof  a  subject.   Recent  works  have  attempted  to  synthesizethese sketches into plausible visual images to improve vi-sual recognition and identification.  However, synthesizingphoto-realistic images from sketches proves to be an evenmore challenging task, especially for sensitive applicationssuch as suspect identification.  In this work, we propose anovel  approach  that  adopts  a  generative  adversarial  net-work that synthesizes a single sketch into multiple syntheticimages with unique attributes like hair color, sex, etc. We in-corporate a hybrid discriminator which performs attributeclassification of multiple target attributes, a quality guidedencoder that minimizes the perceptual dissimilarity of thelatent space embedding of the synthesized and real imageat different layers in the network and an identity preserv-ing network that maintains the identity of the synthesisedimage  throughout  the  training  process.   Our  approach  isaimed at improving the visual appeal of the synthesised im-ages while incorporating multiple attribute assignment tothe generator without compromising the identity of the syn-thesised image. We synthesised sketches using XDOG filterfor the CelebA, WVU Multi-modal and CelebA-HQ datasetsand from an auxiliary generator trained on sketches fromCUHK, IIT-D and FERET datasets. Our results are impres-sive compared to current state of the art.*
+
 ## Installation
 ```bash
 pip install <package>
