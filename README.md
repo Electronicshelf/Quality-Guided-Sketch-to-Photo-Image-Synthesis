@@ -1,6 +1,6 @@
 ## [Quality Guided Sketch-to-Photo Image Synthesis](https://arxiv.org/abs/2005.02133):
 ### PyTorch Implementation
-<p> align="center"><img width="100%" src="Picture6.png" /></p>
+<p align="center"><img width="100%" src="Picture6.png" /></p>
 
 
 ## Installation
