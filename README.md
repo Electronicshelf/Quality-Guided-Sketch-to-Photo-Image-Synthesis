@@ -3,13 +3,11 @@
 <p align="center"><img width="100%" src="Picture6.png" /></p>
 
 
-> [Uche Osahor](https://github.com/Electronicshelf/Quality-Guided-Sketch-to-Photo-Image-Synthesis)<sup>1,2</sup>, 
-[Hadi Kazemi]<sup>1,2</sup>, 
-[Ali Dabouei]<sup>2,3</sup>,
-[Nasser Nasrabadi]<sup>2</sup>,
+> [Uche Osahor](https://github.com/Electronicshelf)<sup>1</sup>, 
+[Hadi Kazemi]<sup>1</sup>, 
+[Ali Dabouei]<sup>1/sup>,
+[Nasser Nasrabadi]<sup>1</sup>,
 <br/>
-Nasser Nasrabadi
-
 > <sup>1</sup> West Virginia University <br/>
 > arxiv.org/pdf/2005.02133.pdf <br>
 >
