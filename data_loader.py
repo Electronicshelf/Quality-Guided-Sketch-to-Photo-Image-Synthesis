@@ -5,7 +5,16 @@ from PIL import Image
 import torch
 import os
 import random
+'''
+#### cite
+'``
+author={Yunjey Choi and Minje Choi and Munyoung Kim and Jung-Woo Ha and Sunghun Kim and Jaegul Choo},
+Adapted from >> title={StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation},
+}
+```
 
+
+'''
 
 class CelebA(data.Dataset):
     """ Dataset class for the CelebA dataset."""
