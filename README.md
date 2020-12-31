@@ -31,7 +31,7 @@ pip install <package>
 	visdom 0.1.8.8
 	tensorboard 1.14.0
 	cudnn 7.6.0
-## DATA
+## DATASET
 https://docs.google.com/forms/d/e/1FAIpQLSd3OUwKxRcqZO24ZVm8CJZD2qrV1N2hF59gElrgB97dvrXeZA/viewform?usp=pp_url
 
 # HINTS
