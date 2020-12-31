@@ -31,6 +31,8 @@ pip install <package>
 	visdom 0.1.8.8
 	tensorboard 1.14.0
 	cudnn 7.6.0
+## DATA
+https://docs.google.com/forms/d/e/1FAIpQLSd3OUwKxRcqZO24ZVm8CJZD2qrV1N2hF59gElrgB97dvrXeZA/viewform?usp=pp_url
 
 # HINTS
 - To use a new sketche style, the sketches must be trained with the model from scratch. Its best to use pictures with a white background or a single background color. This would reduce computational time and place more attention on the facial feataures.
