@@ -32,8 +32,8 @@ pip install <package>
 	tensorboard 1.14.0
 	cudnn 7.6.0
 ## DATASET
-https://docs.google.com/forms/d/e/1FAIpQLSd3OUwKxRcqZO24ZVm8CJZD2qrV1N2hF59gElrgB97dvrXeZA/viewform?usp=pp_url
 
+https://drive.google.com/drive/folders/1TS4QNgd0w7xwC4FbMPJqbDen90K8_pTd?usp=sharing
 # HINTS
 - To use a new sketche style, the sketches must be trained with the model from scratch. Its best to use pictures with a white background or a single background color. This would reduce computational time and place more attention on the facial feataures.
 
@@ -109,7 +109,7 @@ If you find this work useful for your research, please cite our [paper](https://
 ```
 
 ## DATA
-https://docs.google.com/forms/d/e/1FAIpQLSd3OUwKxRcqZO24ZVm8CJZD2qrV1N2hF59gElrgB97dvrXeZA/viewform?usp=pp_url
+https://drive.google.com/drive/folders/1TS4QNgd0w7xwC4FbMPJqbDen90K8_pTd?usp=sharing
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
