@@ -31,6 +31,19 @@ pip install <package>
 	visdom 0.1.8.8
 	tensorboard 1.14.0
 	cudnn 7.6.0
+	
+## Citation
+If you find this work useful for your research, please cite our [paper](https://arxiv.org/abs/2005.02133):
+```
+
+@article{Osahor2020QualityGS,
+  title={Quality Guided Sketch-to-Photo Image Synthesis},
+  author={Uche M. Osahor and Hadi Kazemi and Ali Dabouei and N. Nasrabadi},
+  journal={2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year={2020},
+  pages={3575-3584}
+}
+```	
 ## DATASET
 
 https://drive.google.com/drive/folders/1TS4QNgd0w7xwC4FbMPJqbDen90K8_pTd?usp=sharing
